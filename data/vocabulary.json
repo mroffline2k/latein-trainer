@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Sieg im Circus Maximus"
+    }
+  ],
+  "words": [
+    {
+      "id": "w001",
+      "latin": "cōgitāre",
+      "german": [
+        "denken",
+        "nachdenken",
+        "beabsichtigen"
+      ],
+      "form": "cōgitat",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w002",
+      "latin": "ubi?",
+      "german": [
+        "wo"
+      ],
+      "form": "",
+      "kind": "Fragewort",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w003",
+      "latin": "esse",
+      "german": [
+        "sein",
+        "sich befinden"
+      ],
+      "form": "est",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w004",
+      "latin": "nōn",
+      "german": [
+        "nicht"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w005",
+      "latin": "venīre",
+      "german": [
+        "kommen"
+      ],
+      "form": "venit",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w006",
+      "latin": "dominus",
+      "german": [
+        "der Herr"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w007",
+      "latin": "et",
+      "german": [
+        "und",
+        "auch"
+      ],
+      "form": "",
+      "kind": "Konjunktion",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w008",
+      "latin": "domina",
+      "german": [
+        "die Herrin",
+        "die Dame"
+      ],
+      "form": "",
+      "kind": "f",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w009",
+      "latin": "servus",
+      "german": [
+        "der Sklave",
+        "der Diener"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w010",
+      "latin": "serva",
+      "german": [
+        "die Sklavin",
+        "die Dienerin"
+      ],
+      "form": "",
+      "kind": "f",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w011",
+      "latin": "stāre",
+      "german": [
+        "stehen",
+        "dastehen"
+      ],
+      "form": "stat",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w012",
+      "latin": "spectāre",
+      "german": [
+        "anschauen",
+        "betrachten",
+        "zuschauen"
+      ],
+      "form": "spectat",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w013",
+      "latin": "clāmāre",
+      "german": [
+        "laut rufen",
+        "schreien"
+      ],
+      "form": "clāmat",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w014",
+      "latin": "sed",
+      "german": [
+        "aber",
+        "sondern"
+      ],
+      "form": "",
+      "kind": "Konjunktion",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w015",
+      "latin": "tacēre",
+      "german": [
+        "schweigen"
+      ],
+      "form": "tacet",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 1
+    },
+    {
+      "id": "w016",
+      "latin": "nunc",
+      "german": [
+        "jetzt",
+        "nun"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w017",
+      "latin": "equus",
+      "german": [
+        "das Pferd"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w018",
+      "latin": "etiam",
+      "german": [
+        "auch",
+        "sogar"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w019",
+      "latin": "vidēre",
+      "german": [
+        "sehen"
+      ],
+      "form": "videt",
+      "kind": "Verb",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w020",
+      "latin": "victor",
+      "german": [
+        "der Sieger"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w021",
+      "latin": "gaudēre",
+      "german": [
+        "sich freuen"
+      ],
+      "form": "gaudet",
+      "kind": "Verb",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w022",
+      "latin": "populus",
+      "german": [
+        "das Volk"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w023",
+      "latin": "undique",
+      "german": [
+        "von allen Seiten",
+        "von überallher"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w024",
+      "latin": "clāmor",
+      "german": [
+        "der Lärm",
+        "das Geschrei"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w025",
+      "latin": "victōria",
+      "german": [
+        "der Sieg"
+      ],
+      "form": "",
+      "kind": "f",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w026",
+      "latin": "mercātor",
+      "german": [
+        "der Kaufmann",
+        "der Händler"
+      ],
+      "form": "",
+      "kind": "m",
+      "section": 2,
+      "lesson": 1
+    },
+    {
+      "id": "w027",
+      "latin": "rogāre",
+      "german": [
+        "fragen",
+        "bitten",
+        "bitten um"
+      ],
+      "form": "rogat",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w028",
+      "latin": "ibi",
+      "german": [
+        "dort"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w029",
+      "latin": "frūmentum",
+      "german": [
+        "das Getreide"
+      ],
+      "form": "",
+      "kind": "n",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w030",
+      "latin": "rīdēre",
+      "german": [
+        "lachen",
+        "auslachen"
+      ],
+      "form": "rīdet",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w031",
+      "latin": "amāre",
+      "german": [
+        "lieben",
+        "gernhaben"
+      ],
+      "form": "amat",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w032",
+      "latin": "quis?",
+      "german": [
+        "wer"
+      ],
+      "form": "",
+      "kind": "Fragewort",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w033",
+      "latin": "hīc",
+      "german": [
+        "hier"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w034",
+      "latin": "adesse",
+      "german": [
+        "da sein",
+        "helfen"
+      ],
+      "form": "adest",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w035",
+      "latin": "dēbēre",
+      "german": [
+        "müssen",
+        "sollen",
+        "schulden"
+      ],
+      "form": "debet",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w036",
+      "latin": "fūrtum",
+      "german": [
+        "der Diebstahl"
+      ],
+      "form": "",
+      "kind": "n",
+      "section": 3,
+      "lesson": 1
+    },
+    {
+      "id": "w037",
+      "latin": "cūr?",
+      "german": [
+        "warum"
+      ],
+      "form": "",
+      "kind": "Fragewort",
+      "section": 3,
+      "lesson": 1
+    }
+  ]
+}
