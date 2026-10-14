@@ -25,3 +25,9 @@ Vorgesehene URL: https://mroffline2k.github.io/latein-trainer/ (erst nach erfolg
 `python -m http.server 8000`
 
 Dann http://localhost:8000 öffnen. Keine Installation von Paketen nötig.
+
+## Statistik
+
+Unter „Statistik“ stehen die Läufe pro Tag (Europe/Berlin), abgeschlossene und unvollständige Runden sowie Trefferquoten und Einzelergebnisse mit Uhrzeit, Auswahl und Modus. Ein Lauf wird ab der ersten bewerteten Antwort gespeichert; alle Antworten gewertet bedeutet abgeschlossen, auch ohne abschließenden Klick auf „Weiter“. Neue Runden, Änderungen der Auswahl und Neuladen beginnen einen neuen Lauf. Runden ohne Antwort zählen nicht. Karteikarten werden separat als Selbsteinschätzung ausgewertet. Historische Läufe vor dieser Erweiterung sind nicht rekonstruierbar.
+
+Die Statistik liegt wie der Lernstand ausschließlich in diesem Browser. Es gibt keine Synchronisierung oder manipulationssichere Elternkontrolle. „Lernstand sichern“ exportiert Version 2 inklusive Statistik. Beim Laden einer alten Version-1-Datei bleibt die vorhandene Statistik erhalten; Version 2 ersetzt Lernstand und Statistik durch die Sicherung.
