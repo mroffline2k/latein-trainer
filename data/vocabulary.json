@@ -4,6 +4,10 @@
     {
       "id": 1,
       "title": "Sieg im Circus Maximus"
+    },
+    {
+      "id": 2,
+      "title": "Möhren weisen den Weg"
     }
   ],
   "words": [
@@ -437,6 +441,371 @@
       "kind": "Fragewort",
       "section": 3,
       "lesson": 1
+    },
+    {
+      "id": "w038",
+      "latin": "ad",
+      "german": [
+        "zu",
+        "bei",
+        "nach"
+      ],
+      "form": "",
+      "kind": "Präposition (mit Akk.)",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w039",
+      "latin": "properāre",
+      "german": [
+        "eilen",
+        "sich beeilen"
+      ],
+      "form": "properat",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w040",
+      "latin": "forum",
+      "german": [
+        "das Forum",
+        "der Marktplatz"
+      ],
+      "form": "forum",
+      "kind": "n",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w041",
+      "latin": "circus",
+      "german": [
+        "der Zirkus",
+        "die Rennbahn"
+      ],
+      "form": "circum",
+      "kind": "m",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w042",
+      "latin": "diū",
+      "german": [
+        "lange",
+        "lange Zeit"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w043",
+      "latin": "amīcus",
+      "german": [
+        "der Freund"
+      ],
+      "form": "amīcum",
+      "kind": "m",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w044",
+      "latin": "amīca",
+      "german": [
+        "die Freundin"
+      ],
+      "form": "amīcam",
+      "kind": "f",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w045",
+      "latin": "per",
+      "german": [
+        "durch"
+      ],
+      "form": "",
+      "kind": "Präposition (mit Akk.)",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w046",
+      "latin": "via",
+      "german": [
+        "der Weg",
+        "die Straße"
+      ],
+      "form": "viam",
+      "kind": "f",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w047",
+      "latin": "reperīre",
+      "german": [
+        "finden",
+        "wiederfinden"
+      ],
+      "form": "reperit",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w048",
+      "latin": "audīre",
+      "german": [
+        "hören"
+      ],
+      "form": "audit",
+      "kind": "Verb",
+      "section": 1,
+      "lesson": 2
+    },
+    {
+      "id": "w049",
+      "latin": "itaque",
+      "german": [
+        "deshalb"
+      ],
+      "form": "",
+      "kind": "Konjunktion",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w050",
+      "latin": "iterum",
+      "german": [
+        "wieder",
+        "wiederum",
+        "zum zweiten Mal"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w051",
+      "latin": "iam",
+      "german": [
+        "schon",
+        "bereits",
+        "nun"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w052",
+      "latin": "exspectāre",
+      "german": [
+        "warten",
+        "erwarten"
+      ],
+      "form": "exspectat",
+      "kind": "Verb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w053",
+      "latin": "narrāre",
+      "german": [
+        "erzählen"
+      ],
+      "form": "narrat",
+      "kind": "Verb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w054",
+      "latin": "subitō",
+      "german": [
+        "plötzlich"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w055",
+      "latin": "nōn iam",
+      "german": [
+        "nicht mehr"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w056",
+      "latin": "iō!",
+      "german": [
+        "Hurra!",
+        "Ha!",
+        "Ach!"
+      ],
+      "form": "",
+      "kind": "Interjektion",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w057",
+      "latin": "nōs",
+      "german": [
+        "uns"
+      ],
+      "form": "",
+      "kind": "Pronomen (Akk.)",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w058",
+      "latin": "adiuvāre",
+      "german": [
+        "helfen",
+        "unterstützen"
+      ],
+      "form": "adiuvat (mit Akk.)",
+      "kind": "Verb",
+      "section": 2,
+      "lesson": 2
+    },
+    {
+      "id": "w059",
+      "latin": "vocāre",
+      "german": [
+        "rufen",
+        "nennen"
+      ],
+      "form": "vocat",
+      "kind": "Verb",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w060",
+      "latin": "statim",
+      "german": [
+        "sofort",
+        "auf der Stelle"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w061",
+      "latin": "aedificium",
+      "german": [
+        "das Gebäude",
+        "das Haus"
+      ],
+      "form": "aedificium",
+      "kind": "n",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w062",
+      "latin": "bene",
+      "german": [
+        "gut"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w063",
+      "latin": "taberna",
+      "german": [
+        "das Gasthaus",
+        "der Laden",
+        "die Werkstatt"
+      ],
+      "form": "tabernam",
+      "kind": "f",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w064",
+      "latin": "senātor",
+      "german": [
+        "der Senator"
+      ],
+      "form": "senātōrem",
+      "kind": "m",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w065",
+      "latin": "ecce!",
+      "german": [
+        "Schau!",
+        "Schaut!",
+        "Sieh da!",
+        "Seht da!"
+      ],
+      "form": "",
+      "kind": "Interjektion",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w066",
+      "latin": "ante",
+      "german": [
+        "vor"
+      ],
+      "form": "",
+      "kind": "Präposition (mit Akk.)",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w067",
+      "latin": "semper",
+      "german": [
+        "immer"
+      ],
+      "form": "",
+      "kind": "Adverb",
+      "section": 3,
+      "lesson": 2
+    },
+    {
+      "id": "w068",
+      "latin": "bēstia",
+      "german": [
+        "das Tier"
+      ],
+      "form": "bēstiam",
+      "kind": "f",
+      "section": 3,
+      "lesson": 2
     }
   ]
 }
